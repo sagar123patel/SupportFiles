@@ -1,0 +1,21 @@
+1. Initialize Git: Initialize a new Git repository.
+git init
+
+2. Add Files: Add your project files to the Git repository.
+git add . <= add all file
+
+3. Commit Changes: Commit the added files with a commit message. 
+git commit -m "Initial commit msg"
+
+4. Link Your Local Repository to GitHub
+git remote add origin https://github.com/yourusername/your-repository.git
+
+5. Push Your Changes to GitHub
+git push -u origin master
+
+
+git config --global user.email "sp1632sagarpatel@gmail.com"
+git config --global user.name "sagar123patel"
+
+
+
